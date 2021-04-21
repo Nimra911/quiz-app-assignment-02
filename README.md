@@ -7,6 +7,9 @@
 ![markdown](https://user-images.githubusercontent.com/80028962/115529477-60615c00-a2ac-11eb-9645-9a34eff59b42.PNG)
 # quiz_app q1
 ![q1](https://user-images.githubusercontent.com/80028962/115545188-f1403380-a2bc-11eb-9bb2-8638a084e046.PNG)
+# quiz_app q1
+![q2](https://user-images.githubusercontent.com/80028962/115547416-abd13580-a2bf-11eb-9023-c20ac5792ef4.PNG)
+
 
 
 
