@@ -26,7 +26,7 @@ class WelcomeScreen extends StatelessWidget {
                     "Let's Play Quiz",
                     textAlign: TextAlign.center,
                     style: Theme.of(context).textTheme.headline2.copyWith(
-                        color: Color(0xFF1C2341),fontWeight: FontWeight.bold,
+                        color: Colors.purple.shade900,fontWeight: FontWeight.bold,
                     ),
                   ),
                   SizedBox(
@@ -57,7 +57,15 @@ class WelcomeScreen extends StatelessWidget {
                     height: 40.0,
                   ),
                   InkWell(
-
+                    onTap: () => Get.to(QuizScreen()),
+                    child: Container(
+                      width: double.infinity,
+                      alignment: Alignment.center,
+                      padding: EdgeInsets.all(kDefaultPadding * 0.75), // 15
+                      decoration: BoxDecoration(
+                        gradient: kPrimaryGradient,
+                        borderRadius: BorderRadius.all(Radius.circular(16)),
+                      ),
                       child: Text(
                         "Lets Start Quiz",
                         style: Theme.of(context)
@@ -65,9 +73,9 @@ class WelcomeScreen extends StatelessWidget {
                             .button
                             .copyWith(color: Colors.purple,fontSize: 20),
                       ),
-
+                    ),
                   ),
-                  Spacer(flex: 2), // it will take 2/6 spaces
+                  // it will take 2/6 spaces
                 ],
               ),
             ),
