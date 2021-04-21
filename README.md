@@ -29,9 +29,8 @@
 ![qu6](https://user-images.githubusercontent.com/80028962/115572927-c4e6e000-a2d9-11eb-8f39-635fcc59d978.PNG)
 # quiz_app qu7
 ![qu7](https://user-images.githubusercontent.com/80028962/115572937-c7493a00-a2d9-11eb-82d2-78f5b8bc900e.PNG)
-
-
-
+# quiz_app c1colors
+![c1](https://user-images.githubusercontent.com/80028962/115584508-42afe900-a2e4-11eb-8815-94dbc6045ed3.PNG)
 
 
 
