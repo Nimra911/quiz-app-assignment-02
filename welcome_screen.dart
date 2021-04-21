@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:get/get.dart';
-import 'package:quiz_app/constants.dart';
-import 'package:quiz_app/screens/quiz/quiz_screen.dart';
+
 
 class WelcomeScreen extends StatelessWidget {
   @override
