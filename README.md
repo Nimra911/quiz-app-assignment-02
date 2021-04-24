@@ -1,4 +1,4 @@
-![drawer](https://user-images.githubusercontent.com/80028962/115958147-a1ad7200-a51f-11eb-933e-f4dbaed4ace7.PNG)
+
 qi
 ![A1](https://user-images.githubusercontent.com/80028962/115957578-c0f6d000-a51c-11eb-9f0b-5a6c757023f1.PNG)
 q2
@@ -12,5 +12,5 @@ plugins
 ![q4](https://user-images.githubusercontent.com/80028962/115957765-b8eb6000-a51d-11eb-9790-708c2faad642.PNG)
 ![qu7](https://user-images.githubusercontent.com/80028962/115957773-c1dc3180-a51d-11eb-96a7-009798096399.PNG)
 splash screen![welcome](https://user-images.githubusercontent.com/80028962/115958131-8e020b80-a51f-11eb-9868-28d379a1267e.PNG)
-
+![drawer](https://user-images.githubusercontent.com/80028962/115958147-a1ad7200-a51f-11eb-933e-f4dbaed4ace7.PNG)
 
