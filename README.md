@@ -10,4 +10,6 @@ plugins
 ![q5](https://user-images.githubusercontent.com/80028962/115957746-9ce7be80-a51d-11eb-954a-120ab0176261.PNG)
 ![q4](https://user-images.githubusercontent.com/80028962/115957765-b8eb6000-a51d-11eb-9790-708c2faad642.PNG)
 ![qu7](https://user-images.githubusercontent.com/80028962/115957773-c1dc3180-a51d-11eb-96a7-009798096399.PNG)
+splash screen![welcome](https://user-images.githubusercontent.com/80028962/115958131-8e020b80-a51f-11eb-9868-28d379a1267e.PNG)
+
 
