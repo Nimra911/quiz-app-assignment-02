@@ -27,6 +27,15 @@ splash screen![welcome](https://user-images.githubusercontent.com/80028962/11595
 ![my true false](https://user-images.githubusercontent.com/80028962/115967568-c66c0e80-a54c-11eb-8af4-db9edfea493a.PNG)
 #10th
 ![results(https://user-images.githubusercontent.com/80028962/115967576-d388fd80-a54c-11eb-810e-6a021beea983.PNG)
+#11th
+![mcqs1](https://user-images.githubusercontent.com/80028962/115967712-89ece280-a54d-11eb-91e4-011449fc12a3.PNG)
+#12th
+![mcqs 2](https://user-images.githubusercontent.com/80028962/115967719-93764a80-a54d-11eb-8ba1-db46f30770b2.PNG)
+#13th
+![mcqs 3](https://user-images.githubusercontent.com/80028962/115967728-9bce8580-a54d-11eb-830c-ff1435b0fe13.PNG)
+#14th
+![mcqs results](https://user-images.githubusercontent.com/80028962/115967735-a721b100-a54d-11eb-9053-fac686f89b99.PNG)
+
 
 
 
