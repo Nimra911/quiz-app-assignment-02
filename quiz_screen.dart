@@ -38,15 +38,16 @@ class QuizScreen extends StatelessWidget {
               children: [
                 UserAccountsDrawerHeader(
                   accountName: Text("Nimra Rehman"),
-
+                  accountEmail: Text("nimrarehmanvehari@gmail.com"),
                   decoration: BoxDecoration(
                     gradient: new LinearGradient(
-                        colors: [
-                           Colors.cyan,
-                          Colors.cyan.shade300,
-                        ],
-                        stops: [0.0, 1.0],
-                       ),
+                      colors: [
+                        Colors.blueAccent,
+                        Colors.cyan.shade300,
+                      ],
+
+                      stops: [0.0, 1.0],
+                    ),
                   ),
                   currentAccountPicture: CircleAvatar(
                     backgroundColor: Theme.of(context).platform == TargetPlatform.iOS
@@ -58,13 +59,14 @@ class QuizScreen extends StatelessWidget {
                     ),
                   ),
                 ),
+                Divider(
+                  height: 2,
+                  thickness: 3,
+
+                ),
                 ListTile(
                   title: Container(
-                    padding: EdgeInsets.all(kDefaultPadding * 0.80), // 15
-                    decoration: BoxDecoration(
-                      gradient: kPrimaryGradient,
 
-                    ),
                     child: Text('True or False',style: Theme.of(context)
                         .textTheme
                         .button
@@ -80,14 +82,14 @@ class QuizScreen extends StatelessWidget {
 
                   },
                 ),
+                Divider(
+                  height: 2,
+                  thickness: 3,
 
+                ),
                 ListTile(
                   title: Container(
-                    padding: EdgeInsets.all(kDefaultPadding * 0.80), // 15
-                    decoration: BoxDecoration(
-                      gradient: kPrimaryGradient,
 
-                    ),
                     child: Text('M C Qs Quiz',style: Theme.of(context)
                         .textTheme
                         .button
@@ -103,14 +105,14 @@ class QuizScreen extends StatelessWidget {
 
                   },
                 ),
+                Divider(
+                  height: 2,
+                  thickness: 3,
 
+                ),
                 ListTile(
                   title: Container(
-                    padding: EdgeInsets.all(kDefaultPadding * 0.80), // 15
-                    decoration: BoxDecoration(
-                      gradient: kPrimaryGradient,
 
-                    ),
                     child: Text('Contact Us',style: Theme.of(context)
                         .textTheme
                         .button
@@ -126,13 +128,14 @@ class QuizScreen extends StatelessWidget {
 
                   },
                 ),
+                Divider(
+                  height: 2,
+                  thickness: 3,
+
+                ),
                 ListTile(
                   title: Container(
-                    padding: EdgeInsets.all(kDefaultPadding * 0.80), // 15
-                    decoration: BoxDecoration(
-                      gradient: kPrimaryGradient,
 
-                    ),
                     child: Text('Animation Button',style: Theme.of(context)
                         .textTheme
                         .button
@@ -148,13 +151,14 @@ class QuizScreen extends StatelessWidget {
 
                   },
                 ),
+                Divider(
+                  height: 2,
+                  thickness: 3,
+
+                ),
                 ListTile(
                   title: Container(
-                    padding: EdgeInsets.all(kDefaultPadding * 0.80), // 15
-                    decoration: BoxDecoration(
-                      gradient: kPrimaryGradient,
 
-                    ),
                     child: Text('Leave',style: Theme.of(context)
                         .textTheme
                         .button
@@ -170,15 +174,12 @@ class QuizScreen extends StatelessWidget {
 
                   },
                 ),
-                SizedBox(
-                  width: 2.0,
-                  height: 2.0,
-                  child: const DecoratedBox(
-                    decoration: const BoxDecoration(
-                      gradient: kPrimaryGradient,
-                    ),
-                  ),
+                Divider(
+                  height: 2,
+                  thickness: 3,
+
                 ),
+
 
               ],
             )
