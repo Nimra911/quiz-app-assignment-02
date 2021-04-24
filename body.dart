@@ -1,9 +1,11 @@
 import 'package:flutter/material.dart';
-import
-
-
+import 'package:get/get.dart';
+import 'package:quiz_app/constants.dart';
+import 'package:quiz_app/controllers/question_controller.dart';
+import 'package:websafe_svg/websafe_svg.dart';
 import 'progress_bar.dart';
 import 'question_card.dart';
+
 
 class Body extends StatelessWidget {
   const Body({
@@ -16,7 +18,6 @@ class Body extends StatelessWidget {
     QuestionController _questionController = Get.put(QuestionController());
     return Stack(
       children: [
-
         SafeArea(
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
@@ -34,7 +35,7 @@ class Body extends StatelessWidget {
                   () => Text.rich(
                     TextSpan(
                       text:
-                          "Question ${_questionController.questionNumber.value}",
+                          "Q ${_questionController.questionNumber.value}",
                       style: Theme.of(context)
                           .textTheme
                           .headline4
@@ -52,12 +53,12 @@ class Body extends StatelessWidget {
                   ),
                 ),
               ),
-              Divider(thickness: 1.0),
-              SizedBox(height: 10.0),
+              Divider(thickness: 1.5),
+              SizedBox(height: kDefaultPadding),
               Expanded(
                 child: PageView.builder(
                   // Block swipe to next qn
-                  physics: NeverScrollableScrollPhysics(),
+                 physics: NeverScrollableScrollPhysics(),
                   controller: _questionController.pageController,
                   onPageChanged: _questionController.updateTheQnNum,
                   itemCount: _questionController.questions.length,
