@@ -32,34 +32,4 @@ const List sample_data = [
     "options": ['Cin', 'Count>>', 'Cout', 'Output>>'],
     "answer_index": 2,
   },
-  {
-    "id": 5,
-    "question": "Some cats are actually allergic to humans",
-    "options": ['yes', 'not', 'may be', 'may be not'],//true
-    "answer_index": 2,
-
-
-  },
-  {
-    "id": 6,
-    "question": "You can lead a cow down stairs but not up stairs.",//false
-    "options": ['yes', 'not', 'may be', 'may be not'],//true
-    "answer_index": 2,
-
-
-  },
-  {
-    "id": 7,
-    "question": "It is illegal to pee in the Ocean in Portugal.",
-    "options": ['yes', 'not', 'may be', 'may be not'],
-    "answer_index": 2,
-
-
-  },
-
-
-
-
-
-
 ];
