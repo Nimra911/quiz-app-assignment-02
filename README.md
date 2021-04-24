@@ -1,5 +1,4 @@
-![my true false](https://user-images.githubusercontent.com/80028962/115967568-c66c0e80-a54c-11eb-8af4-db9edfea493a.PNG)
-![results](https://user-images.githubusercontent.com/80028962/115967576-d388fd80-a54c-11eb-810e-6a021beea983.PNG)
+
 
 #qi
 ![A1](https://user-images.githubusercontent.com/80028962/115957578-c0f6d000-a51c-11eb-9f0b-5a6c757023f1.PNG)
