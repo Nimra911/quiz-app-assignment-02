@@ -1,3 +1,5 @@
+![my true false](https://user-images.githubusercontent.com/80028962/115967568-c66c0e80-a54c-11eb-8af4-db9edfea493a.PNG)
+![results](https://user-images.githubusercontent.com/80028962/115967576-d388fd80-a54c-11eb-810e-6a021beea983.PNG)
 
 #qi
 ![A1](https://user-images.githubusercontent.com/80028962/115957578-c0f6d000-a51c-11eb-9f0b-5a6c757023f1.PNG)
@@ -21,6 +23,10 @@ splash screen![welcome](https://user-images.githubusercontent.com/80028962/11595
 ![my welcome screen](https://user-images.githubusercontent.com/80028962/115961901-f8bc4280-a531-11eb-82f0-eeeeed916e60.PNG)
 #8th
 ![animation button](https://user-images.githubusercontent.com/80028962/115963564-47210f80-a539-11eb-877f-3105ab9acc26.PNG)
+#9th
+![my true false](https://user-images.githubusercontent.com/80028962/115967568-c66c0e80-a54c-11eb-8af4-db9edfea493a.PNG)
+#10th
+![results(https://user-images.githubusercontent.com/80028962/115967576-d388fd80-a54c-11eb-810e-6a021beea983.PNG)
 
 
 
