@@ -18,7 +18,5 @@
 #6th
 splash screen![welcome](https://user-images.githubusercontent.com/80028962/115958131-8e020b80-a51f-11eb-9868-28d379a1267e.PNG)
 #7th
-![drawer](https://user-images.githubusercontent.com/80028962/115958147-a1ad7200-a51f-11eb-933e-f4dbaed4ace7.PNG)
-#8th
 ![my welcome screen](https://user-images.githubusercontent.com/80028962/115961901-f8bc4280-a531-11eb-82f0-eeeeed916e60.PNG)
 
