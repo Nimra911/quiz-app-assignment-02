@@ -57,7 +57,7 @@ class Option extends StatelessWidget {
                     width: 26,
                     decoration: BoxDecoration(
                       color: getTheRightColor() == kGrayColor
-                          ? Colors.grey
+                          ? Colors.transparent
                           : getTheRightColor(),
                       borderRadius: BorderRadius.circular(50),
                       border: Border.all(color: getTheRightColor()),
